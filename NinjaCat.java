@@ -20,9 +20,9 @@ public class NinjaCat extends Tiger {
 
     public String toString() {
         if (hasInfected){
-            return "Z";
+            return "CAT";
         } else {
-            return "z";
+            return "cat";
         }
 
     }
